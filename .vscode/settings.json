@@ -1,0 +1,28 @@
+{
+  "javascript.preferences.importModuleSpecifier": "relative",
+  "javascript.preferences.importModuleSpecifierEnding": "js",
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#67b9bb",
+    "activityBar.background": "#67b9bb",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#b04fae",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "commandCenter.border": "#15202b99",
+    "sash.hoverBorder": "#67b9bb",
+    "statusBar.background": "#4aa3a6",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#3a8083",
+    "statusBarItem.remoteBackground": "#4aa3a6",
+    "statusBarItem.remoteForeground": "#15202b",
+    "titleBar.activeBackground": "#4aa3a6",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#4aa3a699",
+    "titleBar.inactiveForeground": "#15202b99"
+  },
+  "peacock.color": "#4aa3a6",
+  "cSpell.words": [
+    "Rhys",
+    "Turts"
+  ],
+}
