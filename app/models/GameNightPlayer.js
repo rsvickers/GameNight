@@ -5,7 +5,7 @@ export class GameNightPlayer {
         this.imgUrl = imgUrl
         this.score = 0
     }
-    get player() {
+    get playerCard() {
         return `
         <div class="col-12 text-center">
         <img class="player-img img-fluid"
